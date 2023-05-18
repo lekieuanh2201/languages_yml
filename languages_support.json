@@ -1,0 +1,11 @@
+{
+    "Ruby":".Ruby.yml",
+    "CSS":".CSS.yml",
+    "CoffeeScript":".CoffeeScript.yml",
+    "JavaScript":".JavaScript.yml",
+    "PHP":".PHP.yml",
+    "Python":".Python.yml",
+    "Go":".Go.yml",
+    "Java":".Java.yml",
+    "Swift":".Swift"
+}

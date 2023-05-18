@@ -1,0 +1,8 @@
+  sonar-php:
+    enabled: true
+  phpmd:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+  phan:
+    enabled: true

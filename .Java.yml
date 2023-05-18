@@ -1,0 +1,4 @@
+  sonar-java:
+    enabled: true
+  pmd: 
+    enabled: true
